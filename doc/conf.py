@@ -24,7 +24,7 @@ copyright = f"2021 to {year}, Andrew Huang"
 author = "Andrew Huang"
 
 # The full version, including alpha/beta/rc tags
-release = 0.0.0
+release = "0.0.0"
 
 
 # -- General configuration ---------------------------------------------------
