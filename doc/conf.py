@@ -16,8 +16,6 @@
 
 import datetime
 
-import ahlive
-
 
 # -- Project information -----------------------------------------------------
 year = datetime.datetime.utcnow().year
@@ -26,7 +24,7 @@ copyright = f"2021 to {year}, Andrew Huang"
 author = "Andrew Huang"
 
 # The full version, including alpha/beta/rc tags
-release = ahlive.__version__
+release = 0.0.0
 
 
 # -- General configuration ---------------------------------------------------
