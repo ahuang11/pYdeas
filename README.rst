@@ -1,7 +1,7 @@
-pydeas - Python ideas
+pYdeas - Python ideas
 ==============================
 
-pydeas is where I try to pursue random Python ideas I have and share my workflow to achieve it! 
+pYdeas is where I try to pursue random Python ideas I have and share my workflow to achieve it! 
 
 Read the docs:
     http://pydeas.readthedocs.io/
