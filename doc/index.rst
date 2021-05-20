@@ -8,6 +8,12 @@
 
 .. toctree::
    :maxdepth: 1
+   :caption: HOLOVIZ INTERACTIONS
+   
+   holoviz_interactions/panel_to_holoviews.ipynb
+
+.. toctree::
+   :maxdepth: 1
    :caption: TC FOOTPRINT
 
    tc_footprint/about.ipynb
