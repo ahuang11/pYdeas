@@ -9,7 +9,8 @@
 .. toctree::
    :maxdepth: 1
    :caption: HOLOVIZ INTERACTIONS
-   
+
+   holoviz_interactions/about.ipynb   
    holoviz_interactions/panel_to_holoviews.ipynb
 
 .. toctree::
