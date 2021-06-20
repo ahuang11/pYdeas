@@ -13,6 +13,7 @@
    holoviz_interactions/about.ipynb   
    holoviz_interactions/panel_to_holoviews.ipynb
    holoviz_interactions/holoviews_to_holoviews.ipynb
+   holoviz_interactions/tips_and_tricks.ipynb
 
 .. toctree::
    :maxdepth: 1
