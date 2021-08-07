@@ -10,6 +10,13 @@
    :maxdepth: 1
    :caption: HOLOVIZ INTERACTIONS
 
+   medium_stories/about.ipynb
+   medium_stories/the_point_of_salting_and_hashing_passwords_demonstrated_with_python.ipynb
+
+.. toctree::
+   :maxdepth: 1
+   :caption: HOLOVIZ INTERACTIONS
+
    holoviz_interactions/about.ipynb   
    holoviz_interactions/panel_to_holoviews.ipynb
    holoviz_interactions/holoviews_to_holoviews.ipynb
